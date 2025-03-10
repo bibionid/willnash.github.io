@@ -22,7 +22,7 @@ repository               : "bibionid/willnash.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/will-nash-web.png"
   name             : "Your Sidebar Name"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
